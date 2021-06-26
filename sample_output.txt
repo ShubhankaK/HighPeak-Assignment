@@ -1,0 +1,4 @@
+Here the goodies that are selected for distribution are:
+MI Band : 999
+Microwave Oven : 1000
+And the difference between the chosen goodie with highest price and the lowest price is 1
